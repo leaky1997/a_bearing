@@ -1,0 +1,11 @@
+*.mat
+*.npy
+*.csv
+*.h5
+*pdf
+a_004_IMS_raw/
+*raw*/
+*.png
+*.svg
+*.zip
+*.ipynb
